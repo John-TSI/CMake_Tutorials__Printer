@@ -1,0 +1,3 @@
+C:/msys64/home/CMakeTutorials/PrinterV2/build/CMakeFiles/Printer.dir
+C:/msys64/home/CMakeTutorials/PrinterV2/build/CMakeFiles/edit_cache.dir
+C:/msys64/home/CMakeTutorials/PrinterV2/build/CMakeFiles/rebuild_cache.dir
